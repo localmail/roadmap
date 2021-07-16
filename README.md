@@ -16,7 +16,7 @@ We now have information for developer preview programs within this repository. I
 
 ## Security disclosures
 
-If you think you’ve found a potential security issue, please do not post it in the Issues.  Instead, please follow the instructions [here](https://docs.localmail.io/legal/security) or [email localmail security directly](mailto:support@localmail.io).
+If you think you’ve found a potential security issue, please do not post it in the Issues.  Instead, please follow the instructions [here](https://docs.localmail.io/legal/security) or [email localmail security directly](mailto:support@localmail.io) support@localmail.io
 
 
 ## FAQs
