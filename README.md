@@ -9,7 +9,7 @@ Knowing about our upcoming products and priorities helps our customers plan. Thi
 [See the roadmap »](https://github.com/localmail/roadmap/projects/1)
 
 ## Developer Preview Programs
-We now have information for developer preview programs within this repository. Issues tagged [Developer Preview](https://github.com/localmail/roadmap/projects/labels/Developer%20Preview) on the public roadmap are active preview programs.
+We now have information for developer preview programs within this repository. Issues tagged [Developer Preview](https://github.com/localmail/roadmap/labels/Developer%20Preview) on the public roadmap are active preview programs.
 
 **Current Programs**
 * There's more to come! Stay tuned!
